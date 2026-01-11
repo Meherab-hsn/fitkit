@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">fitkit</string>
+
+    <string name="hint_height">Height (cm)</string>
+    <string name="hint_neck">Neck Circumference (cm)</string>
+    <string name="hint_waist">Waist Circumference (cm)</string>
+
+    <string-array name="levels_array">
+        <item>Beginner</item>
+        <item>Intermediate</item>
+        <item>Advanced</item>
+    </string-array>
+
+    <string-array name="goals_array">
+        <item>Weight Loss</item>
+        <item>Muscle Gain</item>
+        <item>Strength</item>
+        <item>Endurance</item>
+    </string-array>
+
+    <string-array name="equipment_array">
+        <item>Gym</item>
+        <item>Home (Dumbbells)</item>
+        <item>Bodyweight Only</item>
+    </string-array>  <string-array name="exercise_options">
+    <item>Select Exercise Duration</item>
+    <item>No Exercise</item>
+    <item>Exercise 30 min</item>
+    <item>Exercise 1 hour</item>
+    <item>Exercise 1.5 hours</item>
+    <item>Exercise 2 hours</item>
+</string-array>
+</resources>
