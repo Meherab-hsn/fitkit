@@ -17,9 +17,3 @@ A fitness companion Android app built with **Java** and **Firebase** — plan wo
 - Java (Android)
 - Firebase
 - Gemini AI
-
-## Getting Started
-
-1. Clone this repository
-2. Open the project in Android Studio
-3. Sync Gradle, then run on a device or emulator
